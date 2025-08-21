@@ -13,8 +13,12 @@ I have successfully completed **Task 04** of my MERN Stack Internship 🚀
 ## Tech Stack:
 - HTML  
 - CSS  
-- JavaScript (localStorage for persistence)  
-
+- JavaScript (localStorage for persistence)
+  
+---
+## Links
+- **GitHub Repository:** https://github.com/vikash4509/SCT_WD_1.git
+- **Live Demo:** https://responsive-landing-page-project.netlify.app/
 ---
 
 ## Preview
